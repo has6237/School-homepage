@@ -1,0 +1,42 @@
+body {
+          background-color: white;
+          margin: 30px 150px 30px 150px;
+          text-align: center;
+}
+
+.realBody {
+          padding: 20px 20px 20px 20px;
+          background-color: palegoldenrod;
+}
+
+.heroImg {
+          height: 80px;
+          width: 80px;
+          margin-top: 10px;
+          
+}
+
+.hero {
+          background-color: navy;
+          color: white;
+}
+
+.aboutUs {
+          margin-top: 50px;
+          text-align: left;
+          
+
+}
+
+.levels {
+          margin-top: 50px;
+          text-align: left;
+}
+
+footer {
+          margin-top: 60px;
+          text-align: left;
+          background-color: gray;
+          padding: 10px 0 10px 10px;
+}
+          
